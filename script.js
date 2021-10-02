@@ -5,7 +5,7 @@ function Enviar() {
         window.alert('Capo de email vazio')
         
     }else{
-        window.alert('Obriga por cadastrar seu email')
+        window.alert('Obrigado por cadastrar seu email')
     }
     
 }
